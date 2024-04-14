@@ -1,0 +1,34 @@
+#con1{
+    width: 100%;
+    
+   display: flex;
+   flex-direction: column;
+   gap: 20px;
+   align-items: center;
+   justify-content: center;
+   margin-top: 20px;
+   font-size: larger;
+   /* border: 1px solid red; */
+    
+}
+#con1>div form{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+#con1>div form input{
+    height: 30px;
+    width: 100%;
+    padding-left: 10px;
+}
+#con1>div{
+    width: 23%;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+   
+}
+#con1>div button{
+    height: 25px;
+}
